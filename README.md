@@ -1,2 +1,2 @@
 # IES-FAUSTI-BARBERA
-Repositorio
+Repositorio para subir la documentacion de 2º SMX
