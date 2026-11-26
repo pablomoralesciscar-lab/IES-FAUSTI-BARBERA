@@ -3,9 +3,22 @@ Repositorio para subir la documentacion de 2º SMX
 ## Contenido del repositorio
 Este repositorio contendrá la informacion de **2 SMX**
 
-'''
-
+```
 Esto es un comentario
-...
+```
 
-### Tercer nibel para titulos
+### Tercer nivel para titulos
+
+>Esto no es un quote
+
+### Python
+
+_Progrmación en Python con Thonny_
+
+### Docentes
+
+* Enrique
+* Pilar
+* Borja
+
+[AULES](https://aules.edu.gva.es/fp/my/)-Acceso a Aules
