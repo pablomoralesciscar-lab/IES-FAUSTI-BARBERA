@@ -1,5 +1,4 @@
 # IES-FAUSTI-BARBERA
 Repositorio para subir la documentacion de 2º SMX
-tetas gordas
 ## Contenido del repositorio
-terfdg
+
