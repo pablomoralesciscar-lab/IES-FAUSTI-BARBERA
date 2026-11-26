@@ -1,6 +1,6 @@
 # Aplicaciones Web
 _En esta asignatura hacemos paginas web_ (según)
 
-Docente: Sergio Laguna Olmo
+Docente: SERGIO LAGUNA OLMO
 
 Curso: 2ºSMR
